@@ -1,0 +1,1659 @@
+.home .our-journey {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 44px;
+  color: #FFFFFF;
+}
+.home .reason-to-chose-our-solution-already-colaboration-with-may-clients {
+  align-self: stretch;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: normal;
+  font-style: normal;
+  color: #FFFFFF;
+}
+.home .group-117 {
+  margin: 34px 90.2px 36px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  opacity: 90%;
+}
+.home .image-4 {
+  border-radius: 16px;
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  width: 120px;
+  height: 120px;
+}
+.home .image-5 {
+  border-radius: 16px;
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 120px;
+  height: 120px;
+}
+.home .image-6 {
+  border-radius: 16px;
+  background: url('../assets/images/imagedepok.png') 50% / cover no-repeat;
+  width: 120px;
+  height: 120px;
+}
+.home .image-7 {
+  border-radius: 16px;
+  background: url('../assets/images/imageBogor.png') 50% / cover no-repeat;
+  width: 120px;
+  height: 120px;
+}
+.home .image-8 {
+  border-radius: 16px;
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  width: 120px;
+  height: 120px;
+}
+.home .container {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: 680px;
+  box-sizing: border-box;
+}
+.home .jakarta {
+  margin-right: 10.5px;
+  width: 65px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .bekasi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .depok {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .bogor {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .bandung {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .container-10 {
+  margin: 0 28.8px 0 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 619.2px;
+  box-sizing: border-box;
+  
+}
+.home .group-141 {
+  border-radius: 16px;
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 680px;
+  box-sizing: border-box;
+}
+.home .image-10 {
+  border-radius: 16px;
+  background: url('../assets/images/imagekarawang.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 120px;
+  height: 120px;
+}
+.home .image-11 {
+  border-radius: 16px;
+  background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 120px;
+  height: 120px;
+}
+.home .image-12 {
+  border-radius: 16px;
+  background: url('../assets/images/imagesolo.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 120px;
+  height: 120px;
+}
+.home .image-13 {
+  border-radius: 16px;
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 19px;
+  width: 120px;
+  height: 120px;
+}
+.home .image-14 {
+  border-radius: 16px;
+  background: url('../assets/images/imagemalang.png') 50% / cover no-repeat;
+  width: 120px;
+  height: 120px;
+}
+.home .container-7 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  width: 679px;
+  box-sizing: border-box;
+  
+}
+.home .karawang {
+  margin-right: 0px;
+  width: 84px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .yogyakarta {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .solo {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .surabaya {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .malang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.home .container-3 {
+  margin: 0 25.9px 0 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 629.1px;
+  box-sizing: border-box;
+  
+}
+.home .group-104 {
+  border-radius: 16px;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 679px;
+  box-sizing: border-box;
+}
+.home .group-367 {
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 680px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home .container-4 {
+  background: linear-gradient(89.76deg, rgba(255, 255, 255, 0.65) 32%, rgba(255, 255, 255, 0.65) 94.5%), url('../assets/images/image_11.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 72px;
+  width: 1280px;
+  height: 450px;
+  display: flex;
+  flex-direction: row;
+  padding: 88px 100px 48px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+  background: url('../assets/images/image_11.png') lightgray 50% / cover no-repeat;
+  opacity: 90%;
+}
+.home .vector-16 {
+  width: 53.3px;
+  height: 53.3px;
+}
+.home .frame-15 {
+  margin-right: 21.3px;
+  display: flex;
+  width: 64px;
+  height: 64px;
+  box-sizing: border-box;
+}
+.home .it-telecom-savvy-team {
+  margin: 16.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-117 {
+  margin: 0 0.7px 21.3px 5.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .we-are-experienced-professionals-that-have-served-it-and-telecom-industries-for-more-than-twelve-years-we-bring-acombination-of-technical-and-market-knowledge-to-each-of-our-projects {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .frame-118 {
+  margin-right: 88.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .vector-17 {
+  width: 50.7px;
+  height: 50.4px;
+}
+.home .frame-16 {
+  margin-right: 24px;
+  display: flex;
+  width: 64px;
+  height: 64px;
+  box-sizing: border-box;
+}
+.home .collaboration {
+  margin: 13.8px 0 15.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-1171 {
+  margin: 0 5.3px 21.9px 5.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .collaborate-with-multinational-companies-which-have-expertise-in-it-solution-and-telecom-carriers-we-tailor-and-match-customers-needs-with-effective-and-efficient-solution {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .frame-119 {
+  margin: 2.4px 94.9px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .vector-18 {
+  width: 53.3px;
+  height: 48px;
+}
+.home .frame-17 {
+  margin-right: 21.3px;
+  display: flex;
+  width: 64px;
+  height: 64px;
+  box-sizing: border-box;
+}
+.home .value-to-costomers {
+  margin: 13.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-1172 {
+  margin: 0 5.3px 24px 5.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .by-focusing-solely-on-areas-where-we-excel-we-aim-to-provide-afirst-class-service-to-our-customers-and-bring-value-for-our-customers-by-producing-measurable-results-and-cost-savings {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .frame-120 {
+  margin-top: 2.7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .frame-121 {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .about-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  margin-right: 5px;
+  font-size: 16px;
+  font-style: normal;
+  line-Height: 24px;
+  color: #CF2039;
+}
+.home .group-114 {
+  border-radius: 50px;
+  border: 1px solid #CD090D;
+  position: relative;
+  margin-left: auto; /* Center horizontally */
+  margin-right: auto; /* Center horizontally */
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  align-items: center; /* Center the content vertically */
+  padding: 12px 0; /* Adjust padding as needed */
+  width: 190px;
+  box-sizing: border-box;
+}
+.home .frame-122 {
+  border-radius: 16px;
+  background: #E8E8E8;
+  margin: 0 100px 186px 100px;
+  display: flex;
+  width: 1080px;
+  height: 350px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 41.3px 40.2px 36px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .reason-to-chose-our-solution-already-colaboration-with-may-clients-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.home .group-116 {
+  margin: 0 100px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .group-152 {
+  margin-bottom: 458px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .our-contact {
+  margin: 0 0 8px 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #CD090D;
+}
+.home .get-schedule-with-us {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.get-schedule-with-us-sub3 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.home .frame-140 {
+  margin: 0 0 15px 130.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .vector-6 {
+  width: 18px;
+  height: 21.7px;
+}
+.home .frame-6 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .group-365 {
+  border-radius: 26px;
+  background: #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 18.3px 0;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.home .jl-guntur-no-20-climo-kec-limo-kota-depok-jawa-barat-16514 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.home .frame-141 {
+  position: relative;
+  padding: 6px 0;
+  width: 459px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.home .vector-7 {
+  width: 20px;
+  height: 20px;
+}
+.home .frame-7 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .group-366 {
+  border-radius: 26px;
+  background: #28A745;
+  position: relative;
+  margin-right: 18px;
+  display: flex;
+  padding: 20px;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.home .sales-representative {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.home .frame-142 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .frame-143 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1080px;
+  box-sizing: border-box;
+}
+.home .frame-144 {
+  margin-bottom: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: 1080px;
+  box-sizing: border-box;
+}
+.home .vector-9 {
+  width: 53.3px;
+  height: 48px;
+}
+.home .frame-8 {
+  margin: 10.5px 23.3px 10.5px 0;
+  display: flex;
+  width: 64px;
+  height: 64px;
+  box-sizing: border-box;
+}
+.leave-amessage-sub5 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 1.333;
+}
+.leave-amessage {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 46px;
+  line-height: 1.333;
+}
+.home .leave-amessage {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 46px;
+  color: #000000;
+}
+.home .frame-149 {
+  margin: 0 5.3px 26px 5.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .name {
+  margin-bottom: 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.home .full-name {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.home .frame-145 {
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding: 11px 25px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-146 {
+  margin-right: 26px;
+  display: flex;
+  flex-direction: column;
+  width: 527px;
+  box-sizing: border-box;
+}
+.home .email {
+  margin-bottom: 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.home .enter-your-email {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.home .frame-1451 {
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding: 11px 25px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-147 {
+  display: flex;
+  flex-direction: column;
+  width: 527px;
+  box-sizing: border-box;
+}
+.home .frame-148 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .your-message {
+  margin-bottom: 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.home .enter-your-message {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.home .frame-1452 {
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding: 25px 25px 249px 25px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-1481 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-150 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .send-now {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.home .frame-152 {
+  border-radius: 16px;
+  background: #CD090D;
+  display: flex;
+  align-self: flex-start;
+  padding: 12px 0.7px 12px 0;
+  width: 200px;
+  box-sizing: border-box;
+}
+.home .frame-153 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-154 {
+  margin: 0 100px 71px 100px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .image-91 {
+  background: url('../assets/images/logo-fr.png') 50% / cover no-repeat;
+  margin-bottom: 26px;
+  align-self: flex-start;
+  width: 120px;
+  height: 133px;
+}
+.home .we-plavide-arange-of-it-and-lelucomunication-services-conseling-of-telecomm-consultancy-sip-trunk-provider-cell-center-solution-lan-setup-we-do-the-concept-technical-design-and-implematation-technologika-costumer-need-bath-attective-cast-efficients {
+  margin: 0 32.8px 59px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.home .service {
+  margin-bottom: 26px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 26px;
+  color: #000000;
+}
+.service-sub6 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 1.333;
+}
+.service {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 1.333;
+}
+.home .our-work {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .our-solutions {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .frame-156 {
+  position: relative;
+  padding: 0 0.3px;
+  width: fit-content;
+  height: 74px;
+  box-sizing: border-box;
+}
+.home .frame-157 {
+  margin: 0 43.5px 106px 0;
+  display: flex;
+  flex-direction: column;
+  width: 121px;
+  box-sizing: border-box;
+}
+.home .about-us {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 26px;
+  color: #000000;
+}
+.home .overview {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .aboue {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .awards-recagritions {
+  margin-bottom: 26px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .contact-team {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .frame-158 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-159 {
+  margin-right: 59.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .pt-meissa-berkah-teknologi {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 26px;
+  color: #000000;
+}
+.home .jl-guntur-no-20-climo-kec-limo-kota-depok-jawa-barat-16614 {
+  margin-bottom: 26px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .container-4 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .frame-160 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-161 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .frame-163 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .frame-162 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-164 {
+  margin: 0 110.5px 284px 100px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .copyright-2024-first-routes-web-team-all-rights-reserved {
+  margin: 2.5px 10.5px 0 0;
+  display: inline-block;
+  width: 584px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.home .vector-11 {
+  width: 18px;
+  height: 18px;
+}
+.home .frame-10 {
+  margin: 1px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .vector-12 {
+  width: 20px;
+  height: 20px;
+}
+.home .frame-11 {
+  margin-right: 19.2px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .vector-13 {
+  width: 21.6px;
+  height: 19.5px;
+}
+.home .frame-12 {
+  margin: 0.2px 19.2px 0.3px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .vector-14 {
+  width: 20px;
+  height: 16px;
+}
+.home .frame-13 {
+  margin: 2px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  box-sizing: border-box;
+}
+.home .frame-169 {
+  margin: 1.5px 18px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 144px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home .akun-media-sosial-kami {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+.home .frame-170 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .frame-171 {
+  background: #BD090C;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20.5px 113.1px 20px 100px;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.home .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .image-9 {
+  background: url('../assets/images/logo-fr.png') 50% / cover no-repeat;
+  width: 54px;
+  height: 60px;
+}
+/* .home .home-1 {
+  margin: 3px 16.5px 1.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #BD090C;
+}
+.home .about {
+  margin: 3px 13.6px 1.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .work {
+  margin: 3px 12.7px 1.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .product-solutions {
+  margin: 0 16.8px 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .magang {
+  margin: 1.5px 16.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .contact {
+  margin-top: 4.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+} */
+
+.home .container-6 {
+  background: linear-gradient(90deg, #CF2039, #DC3545); /* Gradient background */
+  display: flex;
+  justify-content: center; /* Center items */
+  align-items: center; /* Center items vertically */
+  padding: 10px 20px; /* Add padding for better spacing */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  width: 45%; /* Full width */
+}
+
+.home .navbar-item {
+  margin: 0 15px; /* Consistent margin for spacing */
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter', sans-serif; /* Use a consistent font */
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF; /* Default text color */
+  transition: color 0.3s; /* Smooth color transition */
+}
+
+.home .navbar-item:hover {
+  color: #000000; /* Change color on hover */
+}
+
+/* Specific styles for the Home item */
+.home .home-1 {
+  color: #438697; /* Highlight color for Home */
+}
+
+.home .container-8 {
+  margin-bottom: 87px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1180px;
+  box-sizing: border-box;
+}
+.home .your-consultancy-partner-for-growth {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 56px;
+  color: #000000;
+}
+.home .find-solutions-and-work-fast-implementing-idea-let-us-manage-your-it-infrastructure-stop-doing-works-that-arent-your-core-businesses {
+  margin-bottom: 50px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .contohgmail-com {
+  margin: 7px 12px 7px 0;
+  display: inline-block;
+  width: 162px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+
+.home .email-1 {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  width: 40px;
+  height: 21px;
+}
+
+.home .group-86 {
+  border-radius: 50px;
+  background: #DC3545;
+  position: relative;
+  height: 38px;
+  padding: 0; /* Remove padding to center text */
+  display: flex; /* Use flexbox for centering */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  width: 80px;
+  box-sizing: border-box;
+}
+
+.home .group-88 {
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  Height: 52px;
+  margin-bottom: 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 7px 7px 7px 24px;
+  width: 500px;
+  box-sizing: border-box;
+}
+.home .group-81 {
+  margin-right: 16px;
+  width: 34px;
+  height: 34px;
+}
+.home .group-82 {
+  width: 34px;
+  height: 34px;
+}
+.home .group-83 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  width: 84px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home .vector-15 {
+  width: 20px;
+  height: 20px;
+}
+.home .frame-14 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .group-84 {
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 50px 0 0 50px;
+  background: #28A745;
+  position: relative;
+  display: flex;
+  padding: 14px 20px;
+  width: 60px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.home .container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1180px;
+  box-sizing: border-box;
+}
+.home .container-1 {
+  background: url('../assets/images/rectangle_61.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 26px 0 0 100px;
+  width: 1300px;
+  height: 680px;
+  box-sizing: border-box;
+}
+.home .work-with-us {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #BD090C;
+}
+.home .collaboration-for-new-invention {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 44px;
+  color: #000000;
+}
+.home .what-we-do-pt-meissa-berkah-teknologi-is-aspecialist-company-that-delivers-telecommunication-services-under-the-brand-first-routes-the-company-is-established-in-2014-by-ateam-of-energetic-and-experienced-telecoms-professionals-that-aim-to-deliver-effective-and-efficient-telecommunication-services {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .frame-132 {
+  margin: 0 91.3px 9px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .image-15 {
+  border-radius: 16px;
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  margin: 0 6.4px 14px 0;
+  width: 130px;
+  height: 130px;
+}
+.home .best-service {
+  margin-bottom: 8.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.home .vector-19 {
+  position: relative;
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .vector-20 {
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .frame-19 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .frame-18 {
+  position: relative;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .vector-21 {
+  position: relative;
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .vector-22 {
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .frame-21 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .frame-20 {
+  position: relative;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .vector-23 {
+  position: relative;
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .vector {
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .frame-23 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .frame-22 {
+  position: relative;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .vector-1 {
+  position: relative;
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .vector-2 {
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .frame-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .frame {
+  position: relative;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .vector-3 {
+  width: 17.1px;
+  height: 16.3px;
+}
+.home .frame-2 {
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.home .frame-124 {
+  margin: 0 5.9px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8.9px;
+  width: 122px;
+  box-sizing: border-box;
+}
+.home .frame-125 {
+  margin-left: 3.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-127 {
+  margin-right: 24.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .ui-ux-design {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.home .antarmuka-sangat-intuitif-dan-mudah-dipahami-oleh-pengguna-baru-tugas-tugas-utama-dapat-diselesaikan-dengan-cepat-dan-efisien {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.home .frame-126 {
+  margin-bottom: 39.7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .frame-129 {
+  margin-bottom: 92.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .vector-4 {
+  width: 7.8px;
+  height: 12.7px;
+}
+.home .frame-3 {
+  transform: rotate(-177.91deg);
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .group-353 {
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-right: 16px;
+  display: flex;
+  padding: 9.1px 11.5px 7.9px 10.2px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.home .vector-5 {
+  width: 7.8px;
+  height: 12.7px;
+}
+.home .frame-4 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home .group-354 {
+  border-radius: 15px;
+  background: #CD090D;
+  position: relative;
+  display: flex;
+  padding: 8.6px 11px 8.6px 11.2px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.home .frame-130 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 76px;
+  box-sizing: border-box;
+}
+.home .frame-131 {
+  border-radius: 26px 0 0 26px;
+  background: #F5D2D7;
+  display: flex;
+  flex-direction: column;
+  padding: 34px 0 34px 24px;
+  width: 600px;
+  box-sizing: border-box;
+}
+.home .frame-133 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .image {
+  background: linear-gradient(rgba(40, 167, 69, 0.3), rgba(40, 167, 69, 0.3)), url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin: 11px 16px 11px 0;
+  width: 80px;
+  height: 80px;
+}
+.home .container {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.home .telco-carriers-and-isp-partners {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-134 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .frame-135 {
+  margin-right: 20.3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .image-1 {
+  background: linear-gradient(rgba(0, 141, 218, 0.3), rgba(0, 141, 218, 0.3)), url('../assets/images/image_13.png') 50% / cover no-repeat;
+  margin: 0.5px 16px 0.5px 0;
+  width: 80px;
+  height: 80px;
+}
+.home .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.home .project-done {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-1341 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .frame-136 {
+  margin: 10.5px 82.6px 10.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .image-2 {
+  background: linear-gradient(rgba(254, 122, 0, 0.3), rgba(254, 122, 0, 0.3)), url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin: 0.5px 16px 0.5px 0;
+  width: 80px;
+  height: 80px;
+}
+.home .container-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.home .corporate-clients {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-1342 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .frame-1371 {
+  margin: 10.5px 48.3px 10.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .image-3 {
+  background: linear-gradient(rgba(254, 56, 84, 0.3), rgba(254, 56, 84, 0.3)), url('../assets/images/image_13.png') 50% / cover no-repeat;
+  margin: 0.5px 16px 0.5px 0;
+  width: 80px;
+  height: 80px;
+}
+.home .container-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.home .pending-project {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.home .frame-1343 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .frame-138 {
+  margin: 10.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .frame-137 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-139 {
+  box-shadow: 0px 0px 26px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(254, 56, 84, 0.1);
+  position: absolute;
+  left: 0px;
+  top: 1580px;
+  right: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 0 50px 100px;
+  box-sizing: border-box;
+}
+.home {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 658px;
+  width: 1280px;
+  box-sizing: border-box;
+}
